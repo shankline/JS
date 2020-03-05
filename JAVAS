@@ -1,0 +1,11 @@
+Function myEveningRoutines(){
+       cook super()
+       serve the food()
+       eat the food()
+       watch Tv()
+       go to sleep()
+}
+ myEveningRoutines
+        
+
+
